@@ -1,0 +1,6 @@
+matplotlib
+numpy
+notebook==6.0.0
+pandas
+python-dotenv
+psycopg2-binary
